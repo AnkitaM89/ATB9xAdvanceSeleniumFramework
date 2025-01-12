@@ -1,4 +1,4 @@
-package com.mukherjeeankita.tests;
+package com.mukherjeeankita.tests.sample;
 
 public class sample {
     public static void main(String[] args) {
