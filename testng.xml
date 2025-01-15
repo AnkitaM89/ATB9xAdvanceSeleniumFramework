@@ -3,7 +3,9 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Ankita/IdeaProjects/ATB9xAdvanceSeleniumFramework">
         <classes>
-            <class name="com.mukherjeeankita.tests.vwoTestCases.TestVWOLogin_POM">
+            <!--<class name="com.mukherjeeankita.tests.orangeHRTestcase.TestOrangeHR_POM">
+            </class>-->
+            <class name="com.mukherjeeankita.tests.KatalonCuraTestcase.TestKatalonCura_POM">
             </class>
         </classes>
     </test>
